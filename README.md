@@ -30,7 +30,7 @@ Ensure you have the following installed:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Aniket-Chinchankar/chat-app.git 
-   cd chitchat  
+   cd chat-app  
    ```  
 
 2. Install the required dependencies:  
