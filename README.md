@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/chitchat.git  
+   git clone https://github.com/Aniket-Chinchankar/chat-app.git 
    cd chitchat  
    ```  
 
